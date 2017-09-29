@@ -1,2 +1,2 @@
 console.log('dev modify a.js')
-console.log('0')
+console.log('dev修改了a.js')
