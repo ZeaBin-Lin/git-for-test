@@ -1,3 +1,3 @@
 
 console.log('master modify a.js')
-console.log('0')
+console.log('origin修改了a.js')
