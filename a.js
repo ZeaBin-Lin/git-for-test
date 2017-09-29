@@ -1,3 +1,3 @@
 
-console.log('master modify a.js')
-console.log('origin修改了a.js')
+console.log('dev modify a.js')
+console.log('dev修改了a.js')
